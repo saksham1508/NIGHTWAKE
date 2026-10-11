@@ -1,0 +1,6 @@
+{
+  "name": "NIGHTWAKE",
+  "description": "Survive the night, fortify at dawn. Top-down roguelike horde-survival shooter with sanctuary base-building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

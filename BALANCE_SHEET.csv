@@ -1,0 +1,23 @@
+Category,ID,Name,BaseDamageOrHP,RateOrSpeed,ScalingBonus,CostOrXP,Notes
+Weapon,assault_rifle,AR-44 Vanguard,22,0.32s,15% per lvl,Starter,Evolves with Rifled Barrels to Vulcan Overdrive
+Weapon,sawed_off_shotgun,Double-Barreled Sweeper,16x6,0.85s,15% per lvl,Starter,Evolves with Choke to Apex Flak Cannon
+Weapon,tesla_arc,Arc Projector,28,0.95s,15% per lvl,Starter,Evolves with Hair Trigger to Cataclysm Coil
+Weapon,toxic_sprayer,Corrosive Aerosol,8,0.45s,15% per lvl,Starter,Evolves with Stagnant Catalyst to Biohazard Pandemic
+Weapon,orbital_sawblades,Orbiting Saws,18,180 deg/s,15% per lvl,Starter,Evolves with Ballistic Vest to Singularity Saws
+Weapon,mortar_grenade,Thumper Mortar,65,1.60s,15% per lvl,Starter,Evolves with Hollow-Point to Thermobaric Obliterator
+Enemy,crawler,Infected Crawler,24,220,1.35x at Night,1 XP,Fast swarming unit
+Enemy,shambler,Ash Shambler,48,140,1.35x at Night,2 XP,Standard tanky walker
+Enemy,spitter,Bile Spitter,42,160,Ranged Acid,3 XP,Shoots acid projectiles
+Enemy,brute,Garrison Brute,180,110,Armored Charge,8 XP,High health tank
+Enemy,leaper,Swarm Leaper,35,260,Jump Ambush,2 XP,Rapid gap closer
+Enemy,screamer,Banshee Screamer,60,180,Horde Screech,5 XP,Buffs nearby swarm
+Enemy,riot,Shielded Enforcer,140,125,Frontal Armor,6 XP,Shielded riot police
+Enemy,bloat,Toxic Bloat,75,95,Death Explosion,4 XP,Explodes into acid on death
+Boss,boss_gorgon,Gorgon Behemoth,2200,120,Ground Slams,50 XP,Spawns at Minute 5
+Boss,boss_terror,Night Terror,4800,210,Shadow Blink,100 XP,Spawns at Minute 10
+Boss,boss_corpse_engine,Corpse Engine,9500,100,Missile Barrage,250 XP,Spawns at Minute 15 Apex
+Structure,command_post,Command Bunker,1000,-,+15 Max Fuel,100S 60M 80W 30E,Unlocks higher sectors
+Structure,workshop,Munitions Workshop,800,-,+5% Global Dmg,80S 90M 50W 50E,Blueprint crafting bench
+Structure,armory,Reinforced Armory,1200,-,+10 HP +2 Armor,120S 110M 40W 20E,Permanent survivability
+Structure,radar,Radar Array,600,-,+10% Salvage Yield,70S 50M 30W 80E,Overworld scouting
+Structure,barricade,Perimeter Palisade,2000,-,+500 Raid Core HP,150S 120M 140W 20E,Base raid defense wall
